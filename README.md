@@ -1,2 +1,3 @@
-# hayate
-An absurd LINE Bot
+### Hayate
+
+## 1. Pendahuluan
